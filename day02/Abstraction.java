@@ -1,4 +1,4 @@
-package day02;
+// package Day02;
 
 abstract class Abstraction{
     abstract void start();
